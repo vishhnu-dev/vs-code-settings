@@ -1,0 +1,27 @@
+{
+  // DEFAULTS
+  "window.zoomLevel": -1,
+  // Emmet https://code.visualstudio.com/docs/editor/emmet
+  // ul>li*10>a -> reproduces an list with 10 itens including a link in wicth one of then.
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "erb": "html"
+  },
+  // GIT
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  // Theme
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.settings.openDefaultKeybindings": true,
+  // RUBOCOP
+  // Code analyzer for ruby
+  // INSTALATION https://docs.rubocop.org/rubocop/1.41/installation.html
+  "ruby.rubocop.executePath": "C:/bin/",
+  "ruby.format": "rubocop",
+  "ruby.rubocop.onSave": false,
+  // IDE
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": false,
+  "diffEditor.ignoreTrimWhitespace": false
+}
