@@ -50,8 +50,7 @@ Rubocop extension for ruby using rvm on Windows WSL through bat file
   {
     "emmet.triggerExpansionOnTab": true,
     "emmet.includeLanguages": {
-      "erb": "html",
-      "ruby": "html"
+      "erb": "html"
     }
   }
 ```
