@@ -4,7 +4,6 @@ Rubocop extension for ruby using rvm on Windows WSL through bat file
 ## Here you will find:
 - [How to setup Rubocop for Visual Studio Code using wsl and rvm](https://github.com/vishhnu-dev/vs-code-settings#how-to-setup-rubocop-for-visual-studio-code-using-wsl-and-rvm)
 - [How to includes erb files into emmet.triggerExpansionOnTab](https://github.com/vishhnu-dev/vs-code-settings#how-to-includes-erb-files-into-emmettriggerexpansionontab)
-- [How to setup wsl terminal on vscode](https://github.com/vishhnu-dev/vs-code-settings#how-to-setup-wsl-terminal-on-vscode)
 
 ### How to Setup Rubocop for Visual Studio Code using WSL and RVM
   Install rubocop gem
@@ -54,5 +53,3 @@ Rubocop extension for ruby using rvm on Windows WSL through bat file
     }
   }
 ```
-### How to setup wsl terminal on vscode
-- Install [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl)
